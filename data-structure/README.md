@@ -15,3 +15,4 @@
    - [时间复杂度：数关键操作实际执行了多少次](01-introduction/time-complexity.md)
 2. [线性表](02-linear-list/README.md)
    - [顺序表：连续内存中的线性表](02-linear-list/sequential-list.md)
+   - [链表：通过指针连接分散的节点](02-linear-list/linked-list.md)
